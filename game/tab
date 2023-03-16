@@ -1,0 +1,18 @@
+{
+  "code": 1,
+  "data": [
+      {
+        "display": "电动老虎机",
+        "subType": "1"
+      },
+      {
+        "display": "经典老虎机",
+        "subType": "2"
+      },
+      {
+        "display": "刮刮乐",
+        "subType": "3"
+      }
+    ],
+  "message": "success"
+}
